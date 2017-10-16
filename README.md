@@ -1,5 +1,5 @@
 # AdaFruitCircuitPlayground  
-# A repo for all of my arduino sketches
+A repo for all of my arduino sketches
 
 # Arc Reactor
 
