@@ -9,5 +9,6 @@ A repo for all of my arduino sketches
   Tapping the board will cause the brightness to increase until max, then reset to lowest setting
   Flipping the switch on the board to the right will turn off the LEDs and reset the brightness to the lowest setting
   Flipping the switch on the board to the left will turn on the LEDs at lowest brightness setting
+  
   File - blue.ino
 
